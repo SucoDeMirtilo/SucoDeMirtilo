@@ -1,7 +1,7 @@
-### Olá!! Eu sou o Murilo.
-
-- 🔭 Hoje trabalho dando aulas de programação básica.
-- 🌱 Estudando TypeScript, CSS e HTML5.
+🎓 Estudante de Ciências Biológicas com formação técnica em T.I.
+💻 Atualmente focado em Front-End Web Development
+📚 Aprendendo HTML, CSS, JavaScript
+🌱 Buscando unir ciência, tecnologia e impacto social
 
 <div align="center">
   <a href="https://github.com/SucoDeMirtilo">
